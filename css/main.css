@@ -1,0 +1,17 @@
+.site-header{
+    background-color: #1bbc9b;
+    color: blueviolet;
+    height: 100vh;
+    font-family: mononspace;
+}
+body{
+    margin:0;
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 150px;
+    width : 150px
+}
+.site-header-content{
+    margin: :10px;
+}
